@@ -2,6 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map xml:lang="nl-nl">
     <title>Atha yoga</title>
+    <topicmeta>
+        <author type="contributor">Yves.Barbion</author>
+        <critdates>
+            <!--Yves.Barbion-->
+            <revised modified="2022-11-24"/>
+        </critdates>
+    </topicmeta>
     <topicref href="bio.dita">
         <topicmeta>
             <data name="wh-tile">
@@ -32,8 +39,10 @@
             </data>
         </topicmeta>
         <topicref href="kine_consult__gent.dita"/>
+        <topicref href="warande.dita"/>
         <topicref href="studio_groene_vallei__gent.dita"/>
     </topicref>
     <topicref href="gl_sankalpa.dita" keys="sankalpa" processing-role="resource-only"/>
     <topicref href="contact.dita"/>
+    <topicref href="warehouse.dita" processing-role="resource-only"/>
 </map>

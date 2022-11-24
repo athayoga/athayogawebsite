@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="warande" xml:lang="nl">
+<title>Warande (Wetteren)</title>
+        <prolog>
+                <author type="creator">Yves.Barbion</author>
+                <critdates>
+                        <created date="2022-11-24"/>
+                </critdates>
+        </prolog>
+<body>
+<section id="section_bjh_vlb_bkb">
+<fig id="fig_nmv_dxm_s2b">
+                                <image href="graphics/danszaal_balletzaal_warande.jpg"
+                                        id="image_pqm_dmy_pvb"/>
+                        </fig>
+</section>
+<section id="section_ifh_dxm_s2b">
+<title>Elke woensdagavond</title>
+<p id="p_vfl_vp1_bkb">Op woensdagavond geef ik yogales van 20 tot 21.15 u in de danszaal van de
+                                sporthal <xref href="https://www.dewarandewetteren.be/"
+                                        format="html" scope="external">De Warande</xref> in
+                                Wetteren.</p>
+</section>
+        <section id="section_ssc_dfm_t5b">
+            <title>Inschrijven?</title>
+            <p>Simpel, stuur me een berichtje of een mailtje of kom gewoon langs. Mijn
+                                contactgegegevens vind je <xref href="contact.dita">hier</xref>.</p>
+        </section>
+<section id="section_nk1_5h5_y3b">
+<title>Adres van de sporthal De Warande</title>
+<p id="p_hrc_tlb_bkb">
+<lines>Warandelaan 14B
+9230 Wetteren</lines>
+</p>
+</section>
+<section id="section_qyf_zh5_y3b">
+<title>Parking</title>
+<p id="p_irc_tlb_bkb">Je kunt je wagen gratis parkeren op de parking van de sporthal.</p>
+</section>
+<section id="section_avx_s35_y3b">
+<title>Kleding</title>
+<p id="p_jrc_tlb_bkb">Draag gemakkelijke kleren waarin je vrij kunt bewegen. Mogen wij je ook vragen je schoenen uit te doen zodra je de zaal binnenkomt? Zo houden we de zaal proper.</p>
+</section>
+                <section conref="warehouse.dita#warehouse/section_fjl_dj5_y3b"
+                        id="section_dxz_14y_pvb"><title/><p/></section>
+                <section conref="warehouse.dita#warehouse/section_cpy_dj5_y3b"
+                        id="section_qbs_b4y_pvb"><title/><p/></section>
+</body>
+</topic>
