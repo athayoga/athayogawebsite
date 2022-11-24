@@ -2,6 +2,13 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="locaties" xml:lang="nl">
 <title>Lessen</title>
+    <prolog>
+        <author type="contributor">Yves.Barbion</author>
+        <critdates>
+            <!--Yves.Barbion-->
+            <revised modified="2022-11-24"/>
+        </critdates>
+    </prolog>
 <body>
 <section id="section_ssq_mq1_bkb">
 <p>Ik geef les op de volgende dagen en plaatsen:</p>
@@ -20,6 +27,10 @@
 <entry>Maandagavond</entry>
 <entry><xref href="kine_consult__gent.dita"></xref></entry>
 </row>
+                        <row>
+                            <entry>Woensdagavond</entry>
+                            <entry><xref href="warande.dita"/></entry>
+                        </row>
 <row>
 <entry>Zaterdagochtend</entry>
 <entry><xref href="studio_groene_vallei__gent.dita"></xref></entry>

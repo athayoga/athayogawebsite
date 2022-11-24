@@ -202,32 +202,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../../tomp/DITA-training_student/certified_pdf_statuses_of_a_pdf_document.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/dita/dita.framework/DITA/DITA HTML5</String>
-                                        <String>6/dita/dita.framework/DITA/DITA PDF - based on HTML5 &amp; CSS</String>
-                                        <String>6/dita/dita.framework/DITA/DITA PDF - based on XSL-FO</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>../../tomp/test.dita</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -397,6 +371,32 @@
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../../tomp/DITA-training_student/certified_pdf_statuses_of_a_pdf_document.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/dita.framework/DITA/DITA HTML5</String>
+                                        <String>6/dita/dita.framework/DITA/DITA PDF - based on HTML5 &amp; CSS</String>
+                                        <String>6/dita/dita.framework/DITA/DITA PDF - based on XSL-FO</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
