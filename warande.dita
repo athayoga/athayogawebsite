@@ -6,6 +6,8 @@
                 <author type="creator">Yves.Barbion</author>
                 <critdates>
                         <created date="2022-11-24"/>
+                        <!--Yves.Barbion-->
+                        <revised modified="2023-01-03"/>
                 </critdates>
         </prolog>
 <body>
@@ -23,9 +25,11 @@
                                 Wetteren.</p>
 </section>
         <section id="section_ssc_dfm_t5b">
-            <title>Inschrijven?</title>
-            <p>Simpel, stuur me een berichtje of een mailtje of kom gewoon langs. Mijn
-                                contactgegegevens vind je <xref href="contact.dita">hier</xref>.</p>
+            <title>Inschrijven</title>
+            <p>Je kunt je inschrijven via deze link <xref
+                                        href="https://calendly.com/athayoganu/yoga_in_de_warande"
+                                        format="html" scope="external"
+                                        >https://calendly.com/athayoganu/yoga_in_de_warande</xref>.</p>
         </section>
 <section id="section_nk1_5h5_y3b">
 <title>Adres van de sporthal De Warande</title>
