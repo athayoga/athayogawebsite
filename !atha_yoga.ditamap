@@ -7,6 +7,8 @@
         <critdates>
             <!--Yves.Barbion-->
             <revised modified="2022-11-24"/>
+            <!--Yves.Barbion-->
+            <revised modified="2023-08-30"/>
         </critdates>
     </topicmeta>
     <topicref href="bio.dita">
@@ -39,7 +41,7 @@
             </data>
         </topicmeta>
         <topicref href="kine_consult__gent.dita"/>
-        <topicref href="warande.dita"/>
+        <topicref href="rode_heuvel.dita" keys="rode_heuvel"/>
         <topicref href="studio_groene_vallei__gent.dita"/>
     </topicref>
     <topicref href="gl_sankalpa.dita" keys="sankalpa" processing-role="resource-only"/>

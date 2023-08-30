@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="rode_heuvel" xml:lang="nl">
+<title>Polikliniek Rode Heuvel</title>
+        <prolog>
+                <author type="creator">Yves.Barbion</author>
+                <critdates>
+                        <created date="2022-11-24"/>
+                        <!--Yves.Barbion-->
+                        <revised modified="2023-01-03"/>
+                </critdates>
+        </prolog>
+<body>
+<section id="section_bjh_vlb_bkb">
+<fig id="fig_nmv_dxm_s2b">
+                                <image href="graphics/polikliniek_rode_heuvel.jpg"
+                                        id="image_pqm_dmy_pvb"/>
+                        </fig>
+</section>
+<section id="section_ifh_dxm_s2b">
+<title>Elke woensdagavond</title>
+<p id="p_vfl_vp1_bkb">Op woensdagavond geef ik yogales van 20 tot 21.15 u in de <xref
+                                        href="https://www.polikliniek-rodeheuvel.be/" format="html"
+                                        scope="external">polikliniek Rode Heuvel</xref> in
+                                Wetteren.</p>
+</section>
+        <section id="section_ssc_dfm_t5b">
+            <title>Inschrijven</title>
+            <p>Je kunt je inschrijven via deze link <xref
+                                        href="https://calendly.com/athayoganu/yoga_op_de_rode_heuvel"
+                                        format="html" scope="external"/>.</p>
+        </section>
+<section id="section_nk1_5h5_y3b">
+<title>Adres van de polikliniek Rode Heuvel</title>
+<p id="p_hrc_tlb_bkb">
+<lines id="lines_ty4_n4y_pyb">Rode Heuvel 2A</lines>
+                                <lines id="lines_uy4_n4y_pyb">9230 Wetteren</lines>
+</p>
+</section>
+<section id="section_qyf_zh5_y3b">
+<title>Parking</title>
+<p id="p_irc_tlb_bkb">Je kunt je wagen vanaf 18 u. gratis parkeren op de markt of in de <xref
+                                        href="https://parkeren.be/parkings/scheldekaai/tarieven-en-abonnementen"
+                                        format="html" scope="external">ondergrondse parking
+                                        Scheldekaai</xref>.</p>
+</section>
+<section id="section_avx_s35_y3b">
+<title>Kleding</title>
+<p id="p_jrc_tlb_bkb">Draag gemakkelijke kleren waarin je vrij kunt bewegen. Mogen wij je ook vragen je schoenen uit te doen zodra je de zaal binnenkomt? Zo houden we de zaal proper.</p>
+</section>
+                <section conref="warehouse.dita#warehouse/section_fjl_dj5_y3b"
+                        id="section_dxz_14y_pvb"><title/><p/></section>
+                <section conref="warehouse.dita#warehouse/section_cpy_dj5_y3b"
+                        id="section_qbs_b4y_pvb"><title/><p/></section>
+</body>
+</topic>

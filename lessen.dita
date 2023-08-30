@@ -7,6 +7,8 @@
         <critdates>
             <!--Yves.Barbion-->
             <revised modified="2022-11-24"/>
+            <!--Yves.Barbion-->
+            <revised modified="2023-08-30"/>
         </critdates>
     </prolog>
 <body>
@@ -29,7 +31,7 @@
 </row>
                         <row>
                             <entry>Woensdagavond</entry>
-                            <entry><xref href="warande.dita"/></entry>
+                            <entry><xref keyref="rode_heuvel"/></entry>
                         </row>
 <row>
 <entry>Zaterdagochtend</entry>
