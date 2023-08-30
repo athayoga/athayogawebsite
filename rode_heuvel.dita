@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="rode_heuvel" xml:lang="nl">
-<title>Polikliniek Rode Heuvel</title>
+<title>Polikliniek Rode Heuvel (Wetteren)</title>
         <prolog>
                 <author type="creator">Yves.Barbion</author>
                 <critdates>
                         <created date="2022-11-24"/>
                         <!--Yves.Barbion-->
                         <revised modified="2023-01-03"/>
+                        <!--Yves.Barbion-->
+                        <revised modified="2023-08-30"/>
                 </critdates>
         </prolog>
 <body>
@@ -19,16 +21,24 @@
 </section>
 <section id="section_ifh_dxm_s2b">
 <title>Elke woensdagavond</title>
-<p id="p_vfl_vp1_bkb">Op woensdagavond geef ik yogales van 20 tot 21.15 u in de <xref
+<p id="p_vfl_vp1_bkb">Op woensdagavond geef ik yogales in de <xref
                                         href="https://www.polikliniek-rodeheuvel.be/" format="html"
                                         scope="external">polikliniek Rode Heuvel</xref> in
                                 Wetteren.</p>
 </section>
         <section id="section_ssc_dfm_t5b">
             <title>Inschrijven</title>
-            <p>Je kunt je inschrijven via deze link <xref
-                                        href="https://calendly.com/athayoganu/yoga_op_de_rode_heuvel"
-                                        format="html" scope="external"/>.</p>
+            <p>Je kunt je inschrijven via deze links:</p>
+                        <ul id="ul_elf_cvy_pyb">
+                                <li><xref
+                                                href="https://calendly.com/athayoganu/yoga_op_de_rode_heuvel_1"
+                                                format="html" scope="external">les 1</xref>, van
+                                        18.30 tot 19.30 u.</li>
+                                <li><xref
+                                                href="https://calendly.com/athayoganu/yoga_op_de_rode_heuvel"
+                                                format="html" scope="external">les 2</xref>, van 20
+                                        tot 21 u.</li>
+                        </ul>
         </section>
 <section id="section_nk1_5h5_y3b">
 <title>Adres van de polikliniek Rode Heuvel</title>
