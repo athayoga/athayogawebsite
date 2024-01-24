@@ -242,38 +242,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../../!flow/training/DITA-training/DITA-training_instructor/!!!user_guide.bookmap.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map WebHelp Responsive</String>
-                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map PDF - based on HTML5 &amp; CSS</String>
-                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map HTML5</String>
-                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map EPUB</String>
-                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map MS Office Word</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>../../DITA/machinery_tasks/ta_voorbereiden_van_de_bedieningsstang.dita</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -435,6 +403,38 @@
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../../!flow/training/DITA-training/DITA-training_instructor/!!!user_guide.bookmap.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map WebHelp Responsive</String>
+                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map PDF - based on HTML5 &amp; CSS</String>
+                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map HTML5</String>
+                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map EPUB</String>
+                                        <String>6/dita/dita_map_2.x.framework/DITA Map 2.x/DITA Map MS Office Word</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                         <Byte>2</Byte>
                                         <Byte>2</Byte>
